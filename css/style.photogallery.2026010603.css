@@ -1,0 +1,7 @@
+body{
+    position: inherit;
+}
+
+.navbar{
+    background : var(--dark-blue-color) !important;
+}
