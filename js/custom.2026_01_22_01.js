@@ -738,7 +738,7 @@ const appData = {
                 "url":"images/lauren_profile.jpg",
                 "title":"Lauren",
                 "subTitle":"CEO",
-                "active":"y"
+                "active":"n"
             },
         ],
         "about":[
@@ -894,6 +894,7 @@ const appData = {
 
     }
 }
+
 
 
 
