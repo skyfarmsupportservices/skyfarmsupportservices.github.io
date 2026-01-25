@@ -1,6 +1,6 @@
 // var CONFIG_URL="https://script.google.com/macros/s/AKfycbxI0pqn-npCAnLHoklN8F6HBkSAXC8LlvQWOcNmV2h6wewi19OBL3CAyeBUErA4JY4uKQ/exec";
 // var CONFIG_URL = "https://script.google.com/macros/s/AKfycbxDRjvS7seRTC2w3zWEm5h1phOctIxqCq-DVS1bSLO-3iloXISN6MqX_vyyIDbAUNPjyg/exec";
-// var CONFIG_URL = "https://script.google.com/macros/s/AKfycbxI0pqn-npCAnLHoklN8F6HBkSAXC8LlvQWOcNmV2h6wewi19OBL3CAyeBUErA4JY4uKQ/exec";
+var CONFIG_URL = "https://script.google.com/macros/s/AKfycbxI0pqn-npCAnLHoklN8F6HBkSAXC8LlvQWOcNmV2h6wewi19OBL3CAyeBUErA4JY4uKQ/exec";
 
 var DEBUG=false; 
 var data = null;
