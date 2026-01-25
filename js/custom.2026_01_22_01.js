@@ -8,8 +8,8 @@ let autoScroll;
 
 $(document).ready(function(){
     initApp();
-    setLoading(false);
-    // getConfigData(); 
+    // setLoading(false);
+    getConfigData(); 
 });
 
   function initApp(){
@@ -894,6 +894,7 @@ const appData = {
 
     }
 }
+
 
 
 
