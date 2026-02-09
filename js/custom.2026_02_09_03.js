@@ -633,19 +633,19 @@ const appData = {
         },
         {
             "key": "noreply_email",
-            "value": "skyfarm.s.services@gmail.com"
+            "value": "info@skyfarmsupportservices.com.au"
         },
         {
             "key": "info_email",
-            "value": "info@skyfarmsupportservices.com"
+            "value": "info@skyfarmsupportservices.com.au"
         },
         {
             "key": "jobs_email",
-            "value": "jobs@skyfarmsupportservices.com"
+            "value": "info@skyfarmsupportservices.com.au"
         },
         {
             "key": "admin_email",
-            "value": "skyfarm.s.services@gmail.com"
+            "value": "info@skyfarmsupportservices.com.au"
         },
         {
             "key": "phone",
